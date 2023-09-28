@@ -1,0 +1,35 @@
+﻿<Window x:Class="CRUD_DMSV.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CRUD_DMSV"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1000">
+    <Grid>
+
+
+        <Label Content="Mã" HorizontalAlignment="Left" Margin="20,27,0,0" VerticalAlignment="Top" Width="37"/>
+
+        <Label Content="Tên" HorizontalAlignment="Left" Margin="315,27,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.935,-3.831"/>
+        <Label Content="Ngày sinh" Margin="607,27,312,0" VerticalAlignment="Top" RenderTransformOrigin="-0.072,0.647"/>
+        <Label Content="Quê Quán " HorizontalAlignment="Left" Margin="20,121,0,0" VerticalAlignment="Top"/>
+        <Label Content="Nơi ở" HorizontalAlignment="Left" Margin="315,121,0,0" VerticalAlignment="Top"/>
+        <Label Content="Lớp" HorizontalAlignment="Left" Margin="607,129,0,0" VerticalAlignment="Top"/>
+        <Label Content="Khoa" HorizontalAlignment="Left" Margin="20,204,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.247,0.725"/>
+        <TextBox x:Name="txtMa" HorizontalAlignment="Left" Height="23" Margin="103,27,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178"/>
+        <TextBox x:Name="txtQueQuan" HorizontalAlignment="Left" Height="23" Margin="103,125,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178"/>
+        <TextBox x:Name="txtKhoa" HorizontalAlignment="Left" Height="23" Margin="103,207,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178"/>
+        <TextBox x:Name="txtTen" HorizontalAlignment="Left" Height="23" Margin="389,27,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178"/>
+        <TextBox x:Name="txtNoiO" HorizontalAlignment="Left" Height="23" Margin="389,125,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178"/>
+        <TextBox x:Name="txtLop" HorizontalAlignment="Left" Height="23" Margin="726,129,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="178" RenderTransformOrigin="3.839,-3.381"/>
+        <Button Content="Thêm" Name="btnThem" HorizontalAlignment="Left" Margin="58,700,0,0" VerticalAlignment="Top" Width="75" Click="btnThem_Click"/>
+
+        <Button Content="Xóa" Name="btnXoa" HorizontalAlignment="Left" Margin="562,700,0,0" VerticalAlignment="Top" Width="75" Click="btnXoa_Click_1" />
+        <Button x:Name="btThoat" Content="Thoát" HorizontalAlignment="Left" Margin="885,700,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.438,1.305"/>
+        <DataGrid x:Name="dtSinhVien"  HorizontalAlignment="Left" Height="341" Margin="34,291,0,0" VerticalAlignment="Top" Width="926" SelectionChanged="dtNhanVien_SelectionChanged"/>
+        <DatePicker Name="dtNgaySinh" HorizontalAlignment="Left" Margin="726,26,0,0" VerticalAlignment="Top" Width="178" Height="27"/>
+        <Button Content="Sửa" x:Name="btnSua" HorizontalAlignment="Left" Margin="238,700,0,0" VerticalAlignment="Top" Width="75" Click="btnSua_Click" RenderTransformOrigin="0.893,0.55"/>
+
+    </Grid>
+</Window>

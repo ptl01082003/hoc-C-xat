@@ -1,0 +1,143 @@
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\CRUD_DMSV.exe.config
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\CRUD_DMSV.exe
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\CRUD_DMSV.pdb
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\MainWindow.g.cs
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\App.g.cs
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV_MarkupCompile.cache
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV_MarkupCompile.lref
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\MainWindow.baml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.g.resources
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.Properties.Resources.resources
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.csproj.GenerateResource.cache
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.csproj.CoreCompileInputs.cache
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.exe
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.pdb
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Azure.Core.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Azure.Identity.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Buffers.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Memory.Data.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Memory.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Permissions.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Text.Json.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.ValueTuple.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Azure.Core.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Azure.Identity.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Buffers.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Memory.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Memory.Data.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Permissions.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Text.Json.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.ValueTuple.xml
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.csproj.CopyComplete
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pham Thanh Long\Desktop\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Data.SqlClient.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\MainWindow.g.cs
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\App.g.cs
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV_MarkupCompile.cache
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV_MarkupCompile.lref
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\CRUD_DMSV.exe.config
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\CRUD_DMSV.exe
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\CRUD_DMSV.pdb
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Azure.Core.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Azure.Identity.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Identity.Client.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Buffers.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Data.SqlClient.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Memory.Data.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Memory.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Numerics.Vectors.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.AccessControl.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Permissions.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Principal.Windows.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Text.Encodings.Web.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Text.Json.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.ValueTuple.dll
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Azure.Core.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Azure.Identity.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Identity.Client.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Buffers.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Data.SqlClient.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Memory.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Memory.Data.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Numerics.Vectors.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.AccessControl.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Permissions.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Security.Principal.Windows.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Text.Encodings.Web.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Text.Json.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\bin\Debug\System.ValueTuple.xml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\MainWindow.baml
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.g.resources
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.Properties.Resources.resources
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.csproj.GenerateResource.cache
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.csproj.CoreCompileInputs.cache
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.csproj.CopyComplete
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.exe
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.pdb
+D:\hoc c#\CRUD_DMSV\CRUD_DMSV\obj\Debug\CRUD_DMSV.csproj.AssemblyReference.cache
